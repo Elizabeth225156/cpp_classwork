@@ -1,3 +1,9 @@
+/*
+Name: Elizabeth
+Program: Math lab
+Date: 3/18/2026
+*/
+
 #include <iostream>
 #include <cmath>
 
